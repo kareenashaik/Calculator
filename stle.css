@@ -1,0 +1,26 @@
+#bod
+{
+    border:2px solid black;
+    height: 300px;
+    width: 500px;
+    margin: auto;
+   
+}
+#result
+{
+    height: 30px;
+    width:fit-content;
+  margin-top: 2%;
+  
+    border: 2px solid black;
+    color: black;
+}
+#wait
+{
+    height: 30px;
+    width:70px;
+  margin-top: 2%;
+    border: 2px solid black;
+    color: black;
+    width: fit-content;
+}
